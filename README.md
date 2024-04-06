@@ -6,7 +6,7 @@ conda activate sp
 
 conda install pip
 
-pip install -q findspark
+pip install -q findspark pyspark
 
 pip install pyarrow
 
